@@ -35,7 +35,11 @@ Soy un apasionado de la tecnología y la transformación digital. Me enfoco en c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnumetadata&logoColor=white)
 
-
+**Bases de Datos:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 
 ### 🚀 Proyectos Destacados de IW | Dev & Tech
@@ -53,6 +57,11 @@ Soy un apasionado de la tecnología y la transformación digital. Me enfoco en c
 * **LinkedIn:** [Tu Nombre](https://linkedin.com/in/williams-espinosa) 
 * **Email:** [w.espinosa.it@gmail.com](mailto:w.espinosa.it@gmail.com)
 * **Ubicación:** Tuxtla Gutiérrez, Chiapas, México 🇲🇽
-
 ---
+
+**Redes y Comunidad:**
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 *Crea el presente, codifica el futuro*
