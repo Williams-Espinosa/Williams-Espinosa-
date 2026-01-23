@@ -19,7 +19,7 @@ I build end-to-end applications: from intuitive user interfaces to scalable back
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/in/williams-espinosa-lopez/)
 
 ---
