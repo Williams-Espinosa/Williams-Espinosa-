@@ -46,7 +46,7 @@ Mi objetivo es diseñar software robusto, seguro y mantenible, capaz de evolucio
 
 ## Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 ## Mobile
 
