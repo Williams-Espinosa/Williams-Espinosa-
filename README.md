@@ -2,7 +2,9 @@
 
 # Williams Espinosa López
 
-### Backend Developer • Mobile Developer • Cloud & DevOps Enthusiast.
+<img src="public/foto.png" alt="Williams Espinosa" width="200">
+
+### Backend Developer • Cloud & DevOps Enthusiast.
 
 > *"Crea el presente, codifica el futuro."*
 
@@ -23,30 +25,21 @@ Mi objetivo es diseñar software robusto, seguro y mantenible, capaz de evolucio
 
 ---
 
-# Actualmente
-
-- Desarrollando **ForgeFit**
-- Usuario de Linux
-- Aprendiendo Tecnologias nuevas
-- Mejorando continuamente mis habilidades de arquitectura de software
-
----
-
 # Tech Stack
 
 <div align="center">
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=go,python,ts,java,kotlin,dart" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,python,ts,js" />
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=gin,nodejs,express,spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,ktor,fastapi,express" />
 
 ## Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 
 ## Mobile
 
@@ -58,11 +51,11 @@ Mi objetivo es diseñar software robusto, seguro y mantenible, capaz de evolucio
 
 ## Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx" />
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,npm,idea" />
 
 </div>
 
@@ -79,7 +72,6 @@ Trabajo bajo principios de ingeniería de software para desarrollar aplicaciones
 - MVVM
 - SOLID
 - Clean Code
-- Domain Driven Design (aprendiendo)
 
 ---
 
@@ -89,7 +81,6 @@ Trabajo bajo principios de ingeniería de software para desarrollar aplicaciones
 Backend Development      ██████████
 Cloud                    ███████░░░
 DevOps                   ███████░░░
-Mobile Development       ████████░░
 ```
 
 ---
