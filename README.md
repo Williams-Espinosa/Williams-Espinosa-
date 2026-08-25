@@ -2,8 +2,6 @@
 
 # Williams Espinosa López
 
-<img src="public/foto.png" alt="Williams Espinosa" width="200">
-
 ### Backend Developer • Cloud & DevOps Enthusiast.
 
 > *"Crea el presente, codifica el futuro."*
