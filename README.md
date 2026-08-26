@@ -2,7 +2,7 @@
 
 # Williams Espinosa López
 
-### Backend Developer • Cloud & DevOps Enthusiast.
+### Backend Developer | Cloud & DevOps
 
 > *"Crea el presente, codifica el futuro."*
 
@@ -27,25 +27,22 @@ Mi objetivo es diseñar software robusto, seguro y mantenible, capaz de evolucio
 
 <div align="center">
 
-## Languages
+## Lenguages
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,python,ts,js" />
+<img src="https://skillicons.dev/icons?i=java,python,go,nodejs" />
+
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=spring,ktor,fastapi,express" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,express" />
 
 ## Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
-
-## Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind" />
 
 ## Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
 ## Cloud & DevOps
 
@@ -53,34 +50,27 @@ Mi objetivo es diseñar software robusto, seguro y mantenible, capaz de evolucio
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,npm,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,npm,idea,androidstudio" />
 
 </div>
 
 ---
 
-# Arquitectura de Software
-
-Trabajo bajo principios de ingeniería de software para desarrollar aplicaciones escalables y fáciles de mantener.
+## Arquitectura de Software
 
 - Clean Architecture
 - Hexagonal Architecture
 - Modular Monolith
-- MVC
-- MVVM
+
+## Principles
+
 - SOLID
 - Clean Code
 
----
+## Patterns
 
-# Especialización
-
-```text
-Backend Development      ██████████
-Cloud                    ███████░░░
-DevOps                   ███████░░░
-```
-
+- MVC
+- MVVM
 ---
 
 # Certificaciones
@@ -88,50 +78,16 @@ DevOps                   ███████░░░
 - AWS Academy Cloud Foundations
 - Python Essentials 1
 - Python Essentials 2
-- React Profesional
-- Java Profesional
-- Introducción a DevOps
+
 
 ---
 
 # Objetivos 2026
 
-- Obtener experiencia como Backend Developer
-- Mejorar inglés
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# Soft Skills
-
-<div align="center">
-
-![Teamwork](https://img.shields.io/badge/Teamwork-181717?style=for-the-badge)
-
-![Leadership](https://img.shields.io/badge/Leadership-181717?style=for-the-badge)
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-181717?style=for-the-badge)
-
-![Communication](https://img.shields.io/badge/Communication-181717?style=for-the-badge)
-
-![Adaptability](https://img.shields.io/badge/Adaptability-181717?style=for-the-badge)
-
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-181717?style=for-the-badge)
-
-</div>
+- Conseguir experiencia profesional como Backend Developer
+- Profundizar en Go y arquitectura backend
+- Fortalecer conocimientos de AWS, DevOps
+- Mejorar inglés técnico
 
 ---
 
